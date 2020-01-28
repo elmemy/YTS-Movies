@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2EDE2C44-9E3D-4889-A9BA-7114902BAE97"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E37505FA-BEFB-4EBA-9AAA-70C7837B13C3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YTS/VIew/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "initVM()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E37505FA-BEFB-4EBA-9AAA-70C7837B13C3 - 24822e039732dff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (YTS.State) -&gt; () in YTS.HomeViewController.initVM() -&gt; ()"
+                  moduleName = "YTS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedelmemy/Desktop/YTS/YTS/VIew/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "606">
+               </Location>
+               <Location
+                  uuid = "E37505FA-BEFB-4EBA-9AAA-70C7837B13C3 - e8bb3f205c8996de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; () in closure #2 (YTS.State) -&gt; () in YTS.HomeViewController.initVM() -&gt; ()"
+                  moduleName = "YTS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedelmemy/Desktop/YTS/YTS/VIew/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "319D35DE-E400-4F3E-9F25-2CE01DBE1E53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YTS/VIew/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "initVM()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "319D35DE-E400-4F3E-9F25-2CE01DBE1E53 - 24822e039732dff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (YTS.State) -&gt; () in YTS.HomeViewController.initVM() -&gt; ()"
+                  moduleName = "YTS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedelmemy/Desktop/YTS/YTS/VIew/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "1089">
+               </Location>
+               <Location
+                  uuid = "319D35DE-E400-4F3E-9F25-2CE01DBE1E53 - 330cb809da58fce1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; () in closure #2 (YTS.State) -&gt; () in YTS.HomeViewController.initVM() -&gt; ()"
+                  moduleName = "YTS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedelmemy/Desktop/YTS/YTS/VIew/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC88EF71-5300-4947-A390-CC1A8524DD67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YTS/VIew/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "initVM()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
